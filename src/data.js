@@ -35,6 +35,32 @@ const pages = [
     ],
   },
   {
+    name: 'Gant Laborde',
+    description: 'Speaker, GDE Web/ML, Podcaster, Trainer, Speaker, Author, Podcaster',
+    url: 'http://gantlaborde.com/uses/',
+    twitter: '@gantlaborde',
+    emoji: '🔥',
+    country: 'US',
+    computer: 'windows',
+    phone: 'ios',
+    tags: [
+      'Engineer',
+      'JavaScript',
+      'Developer',
+      'Consultant',
+      'Entrepreneur',
+      'React',
+      'Blogger',
+      'Teacher',
+      'Speaker',
+      'TypeScript',
+      'Web Developer',
+      'Writer',
+      'Podcaster',
+      'Machine Learning',
+    ],
+  },
+  {
     name: 'Troy Forster',
     description: 'Consulting Technology Director and CTO for Hire',
     url: 'https://tforster.com/uses',
@@ -618,9 +644,14 @@ const pages = [
     url: 'https://pavel.dev/uses',
     twitter: '@theopract',
     emoji: '🤟',
-    country: '🇷🇺',
+    country: 'RU',
     computer: 'windows',
     phone: 'android',
+    // Tags - You can add your own, but please keep it to one word. "Social vape entrepreneur influencer denver" isn't a tag.
+
+    // Dev Tags: Engineer, Developer, Designer, Front End, Back End, Full Stack,
+    // Other: Tags: Entrepreneur, Teacher, Podcaster, YouTuber, Blogger, Speaker,
+    // Language Tags: JavaScript, PHP, Rails, Ruby, TypeScript, React, Vue, Node
     tags: [
       'Developer',
       'Front End',
